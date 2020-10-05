@@ -9,8 +9,8 @@ Article: High Thematic Resolution Land Use Change Models Refine Biodiversity Sce
 Journal: Journal of Biogeography
 
 
-Author list: Leon Marshall^¥, Veronique Beckers3¥, Sarah Vray, Pierre Rasmont, Nicolas J. Vereecken, Nicolas Dendoncker
+Author list: Leon Marshall\*¥, Veronique Beckers3¥, Sarah Vray, Pierre Rasmont, Nicolas J. Vereecken, Nicolas Dendoncker
 
-^ Corresponding author
+\* Corresponding author
 
 ¥ These two authors contributed equally to the article
