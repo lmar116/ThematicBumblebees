@@ -1,4 +1,4 @@
-# ThematicBumblebees
+# High Thematic Resolution Land Use Change Models Bumblebees
 Environmental Data for publication: 
 
 
