@@ -14,3 +14,5 @@ Author list: Leon Marshall\*¥, Veronique Beckers3¥, Sarah Vray, Pierre Rasmont
 \* Corresponding author
 
 ¥ These two authors contributed equally to the article
+
+![Bombus_hortorum_red_clover](https://user-images.githubusercontent.com/33490288/96591248-5bb0f080-12e7-11eb-80b8-2101a75c314f.jpg)
